@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MedAI+ Clinical Decision Support System",
+  "description": "An AI-powered system for doctors to analyze patient data, generate medical insights, and manage patient records efficiently. It features voice-to-notes transcription, medical report analysis (text and imaging), and AI-driven diagnostic suggestions within a secure, user-friendly dashboard.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
